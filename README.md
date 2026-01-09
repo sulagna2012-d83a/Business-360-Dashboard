@@ -100,7 +100,10 @@ Each view provides focused insights for different business teams.
 
 ✅ Project Outcome
 •	Enabled stakeholders to track performance across departments
+
 •	Improved decision-making using real business data
+
 •	Reduced dependency on manual Excel analysis
+
 •	Built a scalable analytics foundation for future growth
 
