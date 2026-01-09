@@ -184,6 +184,7 @@ Dashboard Views:
 •	Info
 
 •	Finance View
+    ![image_alt](https://github.com/sulagna2012-d83a/Business-360-Dashboard/blob/bf96d306d116d4755ffc03adb4de6e34bec3c498/Finance%20View%20.jpg)
 
 •	Sales View
 
