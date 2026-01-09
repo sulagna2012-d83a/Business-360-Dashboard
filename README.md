@@ -192,6 +192,7 @@ Dashboard Views:
 •	Supply Chain View
 
 •	Executive View
+  ![image_alt](https://github.com/sulagna2012-d83a/Business-360-Dashboard/blob/4d166fa6f06b032a96104e1a20cce9d61232e6cf/Executive%20View.jpg)
 
 •	Products
 
