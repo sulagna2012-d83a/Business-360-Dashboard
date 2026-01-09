@@ -193,11 +193,11 @@ Dashboard Views:
   ![image_alt](https://github.com/sulagna2012-d83a/Business-360-Dashboard/blob/2207c2ffa665eaeab081af489251bcbda586db3d/Marketing%20View.jpg)
 
 •	Supply Chain View
+   ![image_alt](https://github.com/sulagna2012-d83a/Business-360-Dashboard/blob/fe5f0b78c0e2efde4907e0b8912efffa4f9f986d/Supply%20Chain%20View.jpg)
 
 •	Executive View
   ![image_alt](https://github.com/sulagna2012-d83a/Business-360-Dashboard/blob/4d166fa6f06b032a96104e1a20cce9d61232e6cf/Executive%20View.jpg)
 
-•	Products
 
 •	Support
 
