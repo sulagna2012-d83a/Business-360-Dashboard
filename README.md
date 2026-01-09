@@ -190,6 +190,7 @@ Dashboard Views:
    ![iage_alt](https://github.com/sulagna2012-d83a/Business-360-Dashboard/blob/e33d44848a970e694c4dd374b776e641152fa7a3/Sales%20view.jpg)
 
 •	Marketing View
+  ![image_alt](https://github.com/sulagna2012-d83a/Business-360-Dashboard/blob/2207c2ffa665eaeab081af489251bcbda586db3d/Marketing%20View.jpg)
 
 •	Supply Chain View
 
