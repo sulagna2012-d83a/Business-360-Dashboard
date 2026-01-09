@@ -170,7 +170,7 @@ All tables were imported into Power BI using database credentials.
 
 •	Used Snowflake schema for better scalability and performance.
 
-![image_alt]()
+![image_alt](https://github.com/sulagna2012-d83a/Business-360-Dashboard/blob/4b397b6fc59c63f861d3d3a00007f1b502d5b405/Data%20Model.jpg)
 
 
 •	All measures and visuals were built on top of this optimized model.
