@@ -69,7 +69,9 @@ Understanding the data was a crucial step before starting analysis.
 
     Contain static information such as customers, products and markets.
     
+    
     -> gdb041
+
 
 •	dim_customer
 
@@ -139,6 +141,7 @@ Understanding the data was a crucial step before starting analysis.
     o	Similar structure to forecast table
     
     o	Final column contains actual sold quantity
+    
     
     -> gdb056
 
