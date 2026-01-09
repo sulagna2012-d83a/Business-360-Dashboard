@@ -187,6 +187,7 @@ Dashboard Views:
     ![image_alt](https://github.com/sulagna2012-d83a/Business-360-Dashboard/blob/bf96d306d116d4755ffc03adb4de6e34bec3c498/Finance%20View%20.jpg)
 
 •	Sales View
+   ![iage_alt](https://github.com/sulagna2012-d83a/Business-360-Dashboard/blob/e33d44848a970e694c4dd374b776e641152fa7a3/Sales%20view.jpg)
 
 •	Marketing View
 
