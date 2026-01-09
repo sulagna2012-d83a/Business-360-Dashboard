@@ -170,6 +170,8 @@ All tables were imported into Power BI using database credentials.
 
 •	Used Snowflake schema for better scalability and performance.
 
+![image_alt]()
+
 
 •	All measures and visuals were built on top of this optimized model.
 
