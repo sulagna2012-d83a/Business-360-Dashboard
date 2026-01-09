@@ -1,7 +1,9 @@
 📊 AtliQ Hardware (Power BI Data Analytics Project)
 Project Overview
+
 AtliQ Hardware is a fast-growing global company selling computers and accessories. To move away from intuition- and Excel-based decisions—which previously led to losses, especially in the American market—the company adopted Power BI–driven analytics.
 This project delivers an end-to-end Power BI dashboard providing insights across Finance, Sales, Marketing, Supply Chain, and Executive management, enabling data-driven decision-making and competitive advantage.
+
 🛠 Tech Stack Used
 •	SQL
 •	Power BI Desktop
@@ -9,6 +11,7 @@ This project delivers an end-to-end Power BI dashboard providing insights across
 •	DAX Language
 •	DAX Studio (for performance optimization)
 •	Project Charter Document
+
 🏢 Company Background
 AtliQ Hardware operates worldwide and sells computer products through three main sales channels:
 •	Retailers
@@ -38,10 +41,10 @@ Understanding the data was a crucial step before starting analysis.
     Contain static information such as customers, products, and markets.
 (gdb041)
 •	dim_customer
-     o	27 markets (India, USA, Spain, etc.)
-     o	75 customers
-     o	2 platforms: Brick & Mortar, E-commerce
-     o	3 channels: Retailer, Direct, Distributor
+     -27 markets (India, USA, Spain, etc.)
+     -75 customers
+-2 platforms: Brick & Mortar, E-commerce
+-3 channels: Retailer, Direct, Distributor
 •	dim_market
      o	27 markets
      o	7 sub-zones
