@@ -209,7 +209,7 @@ Dashboard Structure:
    Track the Customer and Product Key Metrics such as Forecast Accuracy,FA%,Net Error,NE%,ABS Error ,Also plot an Trendline over the Selected period of Net Error and Forecast Accuracy
 
 •	Executive View
-  ![image_alt](https://github.com/sulagna2012-d83a/Business-360-Dashboard/blob/4d166fa6f06b032a96104e1a20cce9d61232e6cf/Executive%20View.jpg)
+  ![image_alt](https://github.com/sulagna2012-d83a/Business-360-Dashboard/blob/1b02fd1731153914c55dee9e77473f4628c4354d/Executive%20Viewjpg.jpg)
 
   Evaluating departmental performance at a glance by plotting Yearly Trends of KPI’s (GM %,NP%, Market share%), Market Share Trends etc.., which enables business leaders to bridge gap between strategy and results by closely monitoring and managing the execution of initiatives.
 
