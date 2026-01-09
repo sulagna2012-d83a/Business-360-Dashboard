@@ -177,31 +177,42 @@ All tables were imported into Power BI using database credentials.
 
 Based on stakeholder mockups and requirements, multiple views were created with interactive visuals and DAX measures.
 
-Dashboard Views:
+Dashboard Structure:
 
-•	Home View – Navigation hub for all reports
 
-•	Info
+- **Home View**: Serves as the main navigation hub for the entire report
+  
+- **Info View**: Provides project and dashboard-related information  
 
 •	Finance View
     ![image_alt](https://github.com/sulagna2012-d83a/Business-360-Dashboard/blob/bf96d306d116d4755ffc03adb4de6e34bec3c498/Finance%20View%20.jpg)
 
+    Unveil an Profit and Loss Statements for financial performance across Markets Products,Customers and list down the Top and Bottom Products and Customer Net Sales
+
 •	Sales View
    ![iage_alt](https://github.com/sulagna2012-d83a/Business-360-Dashboard/blob/e33d44848a970e694c4dd374b776e641152fa7a3/Sales%20view.jpg)
+
+     Decode customer and product performances influenced by Key metrics such as Net Sales and Gross Margin Percentage ,make an performance matrix b/w NS and Np % for market, customer as values ,then explore the Break down for Needful P & L values of Sales View such as Net Sales , COGS , Gross Marigin.
 
 •	Marketing View
   ![image_alt](https://github.com/sulagna2012-d83a/Business-360-Dashboard/blob/2207c2ffa665eaeab081af489251bcbda586db3d/Marketing%20View.jpg)
 
+  Discover Region and market performances influenced by Key metrics such as NS,NS%,GM,GM% ,make an performance matrix b/w NS and GM % for segment, category as Values ,then explore the Break down of Needful P & L values for Marketing View such as Gross Marigin ,Operational Expenses
+
+
+
 •	Supply Chain View
    ![image_alt](https://github.com/sulagna2012-d83a/Business-360-Dashboard/blob/fe5f0b78c0e2efde4907e0b8912efffa4f9f986d/Supply%20Chain%20View.jpg)
+
+   Track the Customer and Product Key Metrics such as Forecast Accuracy,FA%,Net Error,NE%,ABS Error ,Also plot an Trendline over the Selected period of Net Error and Forecast Accuracy
 
 •	Executive View
   ![image_alt](https://github.com/sulagna2012-d83a/Business-360-Dashboard/blob/4d166fa6f06b032a96104e1a20cce9d61232e6cf/Executive%20View.jpg)
 
+  Evaluating departmental performance at a glance by plotting Yearly Trends of KPI’s (GM %,NP%, Market share%), Market Share Trends etc.., which enables business leaders to bridge gap between strategy and results by closely monitoring and managing the execution of initiatives.
 
-•	Support
+ Also i have added a Support page for further assistance.
 
-•	Overall Performance Report
 
 Each view provides focused insights for different business teams.
 
